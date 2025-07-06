@@ -56,7 +56,7 @@ Grup105
 https://trello.com/invite/b/686297235b49ce8ca4b31e1e/ATTI3978c0d02684d8575d5e7ebb2ad97d8c4DCA6946/grup105
 
 **Ürün ile ilgili bazı screenshotlar:**
-![](WhatsApp Görsel 2025-07-06 saat 20.58.58_8bb52d15.jpg)
+![](resimler/WhatsApp Görsel 2025-07-06 saat 20.58.58_8bb52d15.jpg)
 
 ## Sprint Review:
 
