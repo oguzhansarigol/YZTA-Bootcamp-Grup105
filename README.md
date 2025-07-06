@@ -47,7 +47,7 @@ Grup105
 ## Screenshot:
 
 **Burndown chart**
-![](resimler/burndown.jpg)
+![](resimler/burdown.jpg)
 **Sprint Board Screenshot:**
 ![](resimler/kanban.jpg)
 
