@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b647f062-fc80-462b-8166-f0b402247f48)# YZTA-Bootcamp-Grup105
+# YZTA-Bootcamp-Grup105
 
 
 ## Takım İsmi
