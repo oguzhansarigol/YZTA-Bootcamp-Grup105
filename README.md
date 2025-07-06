@@ -1,4 +1,4 @@
-# YZTA-Bootcamp-Grup105
+![image](https://github.com/user-attachments/assets/b647f062-fc80-462b-8166-f0b402247f48)# YZTA-Bootcamp-Grup105
 
 
 ## Takım İsmi
@@ -14,7 +14,7 @@ Grup105
 
 
 ## Uygulama İsmi
-
+-Tilko
 
 ## Ürün Açıklaması
 Öğrencilerin günlük alışkanlıklarını (uyku, çalışma, sosyal medya, spor vb.) analiz eden, yapay zeka ile sınav başarı tahmini ve kişiselleştirilmiş iyileştirme önerileri sunan web uygulaması.
@@ -47,10 +47,10 @@ Grup105
 ## Screenshot:
 
 **Burndown chart**
-
+![](resimler/burndown.jpg)
 **Sprint Board Screenshot:**
+![](resimler/kanban.jpg)
 
-![](r.png)
 
 **kanban template URL**
 https://trello.com/invite/b/686297235b49ce8ca4b31e1e/ATTI3978c0d02684d8575d5e7ebb2ad97d8c4DCA6946/grup105
@@ -61,5 +61,9 @@ https://trello.com/invite/b/686297235b49ce8ca4b31e1e/ATTI3978c0d02684d8575d5e7eb
 ![](resimler/r2.jpg)
 
 ## Sprint Review:
+- maskotun görseli belirlenecek
+- oyunlaştırma artırılacak
+
 
 ## Sprint Retrospective:
+-toplantı  sayısı artırılcak
