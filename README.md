@@ -39,5 +39,25 @@ Grup105
  
 **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 100 dur. İlk Sprint için bitirilmesi istenilen puan sayısı 20 olarak belirlenmiştir.
 
+
 **Daily scrum**: ağırlıklı olmak üzere  Whatsapp ve  Microsoft Teams üzerinden iletişime geçildi . yoğunluk ve farklı zamanlarda müsait olma durumu yüzünden haftada 2-3 toplantı yapıldı.
 
+**Bazı iletişim mesajları ve toplantı görüntüleri**: https://imgur.com/a/IyXKAfT
+
+## Screenshot:
+
+**Burndown chart**
+
+**Sprint Board Screenshot:**
+
+![](r.png)
+
+**kanban template URL**
+https://trello.com/invite/b/686297235b49ce8ca4b31e1e/ATTI3978c0d02684d8575d5e7ebb2ad97d8c4DCA6946/grup105
+
+**Ürün ile ilgili bazı screenshotlar:**
+![](WhatsApp Görsel 2025-07-06 saat 20.58.58_8bb52d15.jpg)
+
+## Sprint Review:
+
+## Sprint Retrospective:
