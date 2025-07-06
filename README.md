@@ -66,4 +66,4 @@ https://trello.com/invite/b/686297235b49ce8ca4b31e1e/ATTI3978c0d02684d8575d5e7eb
 
 
 ## Sprint Retrospective:
-- toplantı  sayısı artırılcak
+- toplantı  sayısı haftada 1 e düşürüldü
