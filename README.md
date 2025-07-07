@@ -35,6 +35,18 @@ Grup105
 
 ---
 # **SPRINT 1**
+
+**Sprint notları**
+- yapılanlar:
+ sprintin ilk haftası konu araştırması ve araştırma konularına dair  uygun data bulundu ve konu oyladı .
+ webapp'in  frontend  bölümüne(giriş ekranı,kaydolma ekranı ,ana sayfa) başlandı.
+ veriler tabanı hazırlandı ve  yeme alışkınlığı sınıflandıran model gelliştirilmrye başlandı  .
+
+ - zorluk ve çözüm:
+ geliştirilen yeme alışkanlığı sınıflandırma modelini kulanabilmek için paketlenmiş bir modeli  webapp de kulanma yollarını araştırmaya başlandı .
+ 
+
+ 
  sprinti tamamlanması için beklenen değer 20 dir
  
 **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 100 dur. İlk Sprint için bitirilmesi istenilen puan sayısı 20 olarak belirlenmiştir.ama 13 puan tamamlanabilişmitir . 7 puanlık görev sonraki sprinte aktarılmıştır
