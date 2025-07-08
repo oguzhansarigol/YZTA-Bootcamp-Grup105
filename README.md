@@ -6,11 +6,11 @@ Grup105
 
 
 ## Takım Üyeleri
-- ***Mustafa yıldız*** - Scrum Master
-- ***Oğuzhan sarıgöl*** - Product Owner
-- ***Aslı aydın*** - Developer
-- ***Kerem faruk öztürk*** - Developer
-- ***Firdevs eyidoğan*** - Developer
+- ***Mustafa YILDIZ*** - Scrum Master
+- ***Oğuzhan SARIGÖL*** - Product Owner
+- ***Aslı AYDIN*** - Developer
+- ***Kerem Faruk ÖZTÜRK*** - Developer
+- ***Firdevs EYİDOĞAN*** - Developer
 
 
 ## Uygulama İsmi
@@ -72,10 +72,28 @@ https://trello.com/invite/b/686297235b49ce8ca4b31e1e/ATTI3978c0d02684d8575d5e7eb
 ![](resimler/r3.jpg)
 ![](resimler/r2.jpg)
 ![](resimler/kod.jpg)
+
 ## Sprint Review:
-- maskotun görseli belirlenecek
-- oyunlaştırma artırılacak
+🎯 Hedeflenen Çıktılar:
+- Uygulama ismi belirlenecek.
+- Maskotun görseli belirlenecek.
+- Oyunlaştırma artırılacak.
+- Coin sistemi geliştirilecek.
+- Mental sağlık puanı ile yeni karakter açma özelliği eklenecek.
+- Günlük alışkanlık verilerinin toplanmasına dair formlar geliştirilecek.
+
+🗣 Geri Bildirimler ve Sonuçlar:
+
 
 
 ## Sprint Retrospective:
-- toplantı  sayısı haftada 1 e düşürüldü
+💬 İyi Gidenler:
+- Uygulamanın maskotu için kullanıcıya hitap eden ve genç hedef kitleye uygun farklı görsel taslaklar hazırlandı.
+- Giriş/Kayıt ol sayfalarının frontend'i tasarlandı.
+
+⚠️ Zorluklar / Sorunlar:
+- Haftalık iki toplantı yapılması zaman yönetimini zorlaştırdı ve ekip içi tekrarlarla zaman kaybı yaşandı.
+
+🔄 İyileştirme Kararları:
+- Toplantı  sayısı haftada 1'e düşürüldü.
+- Trello gibi araçlarda görev takibi için güncelleme sıklığı artırılacak.
