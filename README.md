@@ -20,7 +20,7 @@ Grup105
 Öğrencilerin günlük alışkanlıklarını (uyku, çalışma, sosyal medya, spor vb.) analiz eden, yapay zeka ile sınav başarı tahmini ve kişiselleştirilmiş iyileştirme önerileri sunan web uygulaması.
 
 
-##Ürün özelikleri 
+## Ürün özelikleri 
 - Günlük yemek alışkanlığı takibi 
 - yeme alışkanlığı analiz edip öneri sunan bir model
 - Çalışma takibi
@@ -74,7 +74,7 @@ https://trello.com/invite/b/686297235b49ce8ca4b31e1e/ATTI3978c0d02684d8575d5e7eb
 ![](resimler/kod.jpg)
 
 ## Sprint Review:
-🎯 Hedeflenen Çıktılar:
+### 🎯 Hedeflenen Çıktılar:
 - Uygulama ismi belirlenecek.
 - Maskotun görseli belirlenecek.
 - Oyunlaştırma artırılacak.
@@ -82,18 +82,18 @@ https://trello.com/invite/b/686297235b49ce8ca4b31e1e/ATTI3978c0d02684d8575d5e7eb
 - Mental sağlık puanı ile yeni karakter açma özelliği eklenecek.
 - Günlük alışkanlık verilerinin toplanmasına dair formlar geliştirilecek.
 
-🗣 Geri Bildirimler ve Sonuçlar:
+### 🗣 Geri Bildirimler ve Sonuçlar:
 
 
 
 ## Sprint Retrospective:
-💬 İyi Gidenler:
+### 💬 İyi Gidenler:
 - Uygulamanın maskotu için kullanıcıya hitap eden ve genç hedef kitleye uygun farklı görsel taslaklar hazırlandı.
 - Giriş/Kayıt ol sayfalarının frontend'i tasarlandı.
 
-⚠️ Zorluklar / Sorunlar:
+### ⚠️ Zorluklar / Sorunlar:
 - Haftalık iki toplantı yapılması zaman yönetimini zorlaştırdı ve ekip içi tekrarlarla zaman kaybı yaşandı.
 
-🔄 İyileştirme Kararları:
+### 🔄 İyileştirme Kararları:
 - Toplantı  sayısı haftada 1'e düşürüldü.
 - Trello gibi araçlarda görev takibi için güncelleme sıklığı artırılacak.
