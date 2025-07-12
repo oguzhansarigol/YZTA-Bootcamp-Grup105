@@ -1,0 +1,193 @@
+/* Genel Sıfırlama */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Arka Plan */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: url('img.jpg') no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Ortalanmış Container */
+.container {
+  display: flex;
+  flex-direction: column; /* Dikey hizalama için */
+  align-items: center; /* Yatayda ortalamak için */
+  justify-content: center; /* Dikeyde ortalamak için */
+  height: 100vh;
+  padding: 20px;
+}
+
+/* Başlık Stili */
+h1 {
+  text-align: center;
+  color: #fff; /* Arka planla uyumlu beyaz renk */
+  margin-bottom: 30px; /* Giriş kartıyla arasında boşluk */
+  font-size: 2.5em; /* Yazı boyutu */
+  font-weight: bold;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.3); /* Görsel efekt */
+}
+
+/* Login/Kayıt Kutusu */
+.login-box {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-radius: 16px;
+  padding: 70px 60px;
+  max-width: 640px;
+  width: 100%;
+  color: white;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.07);
+  transition: all 0.3s ease;
+}
+
+.login-box:hover {
+  box-shadow: 0 0 50px rgba(255, 255, 255, 0.1);
+}
+
+.login-box h2 {
+  font-size: 38px;
+  margin-bottom: 35px;
+  font-weight: 700;
+  color: #fff;
+}
+
+/* Input Kutuları */
+.input-box {
+  position: relative;
+  margin-bottom: 22px;
+}
+
+.input-box input {
+  width: 100%;
+  padding: 16px 16px 16px 50px;
+  border-radius: 40px;
+  border: none;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  font-size: 16px;
+  outline: none;
+  transition: 0.3s ease;
+}
+
+.input-box input:focus {
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 10px rgba(241, 196, 15, 0.3);
+}
+
+.input-box input::placeholder {
+  color: #ccc; /* Yer tutucu metin rengi (daha okunabilir gri ton) */
+  opacity: 1; /* Bazı tarayıcılarda opaklık sorununu çözer */
+}
+
+.input-box i {
+  position: absolute;
+  top: 50%;
+  left: 18px;
+  transform: translateY(-50%);
+  color: #ccc;
+  font-size: 15px;
+}
+
+/* Seçenekler */
+.options {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  margin-bottom: 22px;
+  color: #ccc;
+}
+
+.options a {
+  color: #f1c40f;
+  text-decoration: none;
+}
+
+/* Buton */
+.login-btn {
+  width: 100%;
+  padding: 16px;
+  border-radius: 40px;
+  background: linear-gradient(90deg, #f1c40f, #e67e22);
+  border: none;
+  color: #111;
+  font-weight: 600;
+  font-size: 17px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.login-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(241, 196, 15, 0.3);
+}
+
+/* Kayıt Yönlendirmesi */
+.register-link {
+  margin-top: 25px;
+  font-size: 14px;
+  color: #ccc;
+}
+
+.register-link a {
+  color: #f1c40f;
+  text-decoration: none;
+}
+
+/* 🌐 Mobil Uyum */
+@media screen and (max-width: 480px) {
+  .login-box {
+    padding: 40px 25px;
+    max-width: 90%;
+  }
+
+  .login-box h2 {
+    font-size: 28px;
+  }
+
+  .input-box input {
+    font-size: 14px;
+    padding-left: 45px;
+  }
+
+  .input-box input::placeholder {
+    color: #ccc; /* Mobilde de aynı okunabilir gri ton */
+  }
+
+  .input-box i {
+    font-size: 13px;
+    left: 14px;
+  }
+
+  .login-btn {
+    font-size: 15px;
+    padding: 14px;
+  }
+
+  .options {
+    font-size: 12px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .register-link {
+    font-size: 12px;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 2em; /* Mobilde daha küçük yazı boyutu */
+    margin-bottom: 20px;
+  }
+}
