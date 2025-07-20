@@ -142,6 +142,12 @@ yeni datayla modeller deneniyor.
   ## Sprint Review:
   ### 🎯 Hedeflenen Çıktılar:
   - Coin sistemi geliştirilecek.
+  - geliştirilen modeller yeni data için denenicek .
+  - yapılan sayfalar birleştirilmeye başlancak.
+  - belirlenen maskot ve başarım kartları eklenicek.
 
 
   ## Sprint Retrospective:
+- haftada bir tolantı eksikliğini  whasaptan iletişim artırarak sağlanacak.
+- görev olarak geride düştüğümüzü farkettik çalışma süremiz artırılcak.
+  
