@@ -136,5 +136,6 @@ yeni datayla modeller deneniyor.
  **Ürün ile ilgili bazı screenshotlar:**
   ![](mascot_images/mascot1.png)
  ![](resimler/gırıs.jpg)
+ ![](resimler/kod2.jpg)
 
   
