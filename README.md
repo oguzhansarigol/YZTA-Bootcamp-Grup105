@@ -1,4 +1,4 @@
-<img width="935" height="531" alt="image" src="https://github.com/user-attachments/assets/8f2143e8-4662-4ad7-a0c8-13362ebc86d4" /># YZTA-Bootcamp-Grup105
+# YZTA-Bootcamp-Grup105
 
 
 ## Takım İsmi
