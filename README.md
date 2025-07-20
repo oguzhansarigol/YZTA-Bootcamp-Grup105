@@ -138,4 +138,7 @@ yeni datayla modeller deneniyor.
  ![](resimler/gırıs.jpg)
  ![](resimler/kod2.jpg)
 
-  
+  ## Sprint Review:
+
+
+  ## Sprint Retrospective:
