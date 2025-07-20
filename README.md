@@ -1,4 +1,4 @@
-# YZTA-Bootcamp-Grup105
+<img width="935" height="531" alt="image" src="https://github.com/user-attachments/assets/8f2143e8-4662-4ad7-a0c8-13362ebc86d4" /># YZTA-Bootcamp-Grup105
 
 
 ## Takım İsmi
@@ -114,7 +114,7 @@ yeni datayla modeller deneniyor.
  sprinti tamamlanması için beklenen değer 30 dir
 
 
-**Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 100 dur. iki Sprint için bitirilmesi istenilen puan sayısı 30 olarak belirlenmiştir.ama 13 puan tamamlanabilişmitir .
+**Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 100 dur. iki Sprint için bitirilmesi istenilen puan sayısı 32 olarak belirlenmiştir.ama 25 puan tamamlanabilişmitir .
 
 **Daily scrum**: ağırlıklı olmak üzere  Whatsapp ve  Microsoft Teams üzerinden iletişime geçildi . yoğunluk ve farklı zamanlarda müsait olma durumu yüzünden haftada 1 toplantı yapıldı. 
 
@@ -131,3 +131,10 @@ yeni datayla modeller deneniyor.
 **Sprint Board Screenshot:**
 
  ![](resimler/2sprint.jpg)
+
+
+ **Ürün ile ilgili bazı screenshotlar:**
+  ![](mascot_images/mascot1.png)
+ ![](resimler/gırıs.jpg)
+
+  
