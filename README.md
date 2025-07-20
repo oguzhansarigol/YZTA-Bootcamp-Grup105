@@ -138,7 +138,10 @@ yeni datayla modeller deneniyor.
  ![](resimler/gırıs.jpg)
  ![](resimler/kod2.jpg)
 
+
   ## Sprint Review:
+  ### 🎯 Hedeflenen Çıktılar:
+  - Coin sistemi geliştirilecek.
 
 
   ## Sprint Retrospective:
