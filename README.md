@@ -122,3 +122,10 @@ yeni datayla modeller deneniyor.
 
 
  ## Screenshot:
+ 
+ **Burndown chart**
+ 
+
+**Sprint Board Screenshot:**
+
+ ![](resimler/2sprint.jpg)
