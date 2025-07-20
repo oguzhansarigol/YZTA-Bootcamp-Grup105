@@ -97,3 +97,28 @@ https://trello.com/invite/b/686297235b49ce8ca4b31e1e/ATTI3978c0d02684d8575d5e7eb
 ### 🔄 İyileştirme Kararları:
 - Toplantı  sayısı haftada 1'e düşürüldü.
 - Trello gibi araçlarda görev takibi için güncelleme sıklığı artırılacak.
+
+
+
+
+# **SPRINT 2**
+**Sprint notları**
+yapılanlar:
+bu sprinte modeler eğitilmeye çalışıldı . Datanın yetersizliğinden dolayı yeni data bulundu.
+giriş ve kaydol sayfaları backend de bağlandı.
+maskot  ve başarım kartları ayarlandı .
+ana sayfa  tamamlandı.
+yeni datayla modeller deneniyor.
+
+
+ sprinti tamamlanması için beklenen değer 30 dir
+
+
+**Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 100 dur. iki Sprint için bitirilmesi istenilen puan sayısı 30 olarak belirlenmiştir.ama 13 puan tamamlanabilişmitir .
+
+**Daily scrum**: ağırlıklı olmak üzere  Whatsapp ve  Microsoft Teams üzerinden iletişime geçildi . yoğunluk ve farklı zamanlarda müsait olma durumu yüzünden haftada 1 toplantı yapıldı. 
+
+ **Bazı iletişim mesajları ve toplantı görüntüleri**: https://imgur.com/a/kk2RNqq
+
+
+ ## Screenshot:
